@@ -11,23 +11,35 @@ namespace Operators
             string a="abcd", b="efgh";
 
             // TODO: Basic math operators are +, -, /, *
-            Console.WriteLine("----- Basic Math -----");
+            // Console.WriteLine("----- Basic Math -----");
+            // Console.WriteLine((x+y)*(x/y));
+            // Console.WriteLine(x-y);
+            // Console.WriteLine(a+b);
 
 
             // TODO: Increment / decrement operators
-            Console.WriteLine("----- Shorthand -----");
+            // Console.WriteLine("----- Shorthand -----");
+            x++;
+            y--;
+            // Console.WriteLine(x);
+            // Console.WriteLine(y);
 
-
-            // TODO: Operators can be shorthand: a = a + b
+            // // TODO: Operators can be shorthand: a = a + b
+            // a += b;
+            // Console.WriteLine(a);
 
 
             // TODO: Logical operators &&, ||
             // Console.WriteLine("----- Logic Operators -----");
+            // Console.WriteLine(x > y && y >= 5);
+            // Console.WriteLine(x > y || y >= 5);
 
 
             // null-coalescing operators
-            // string str = null;
+            string str = null;
             // TODO: the ?? operator uses left operand if not null, or right one if it is
+            //returns unknown string
+            Console.WriteLine(str ?? "Unknown String");
 
             
             // TODO: the ??= operator assigns the right operand if the left one is null
@@ -35,7 +47,9 @@ namespace Operators
             // if (variable is null) {
             //    variable = somevalue;
             // }
-
+            str ??= "New String";
+            //returns New String
+            Console.WriteLine(str ?? "Unknown String");
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\bin\Debug\net7.0\Operators.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\bin\Debug\net7.0\Operators.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\bin\Debug\net7.0\Operators.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\Operators\obj\Debug\net7.0\ref\Operators.dll

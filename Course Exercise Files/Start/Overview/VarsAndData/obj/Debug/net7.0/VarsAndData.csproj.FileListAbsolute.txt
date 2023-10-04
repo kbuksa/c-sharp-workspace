@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\refint\VarsAndData.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Overview\VarsAndData\obj\Debug\net7.0\ref\VarsAndData.dll
