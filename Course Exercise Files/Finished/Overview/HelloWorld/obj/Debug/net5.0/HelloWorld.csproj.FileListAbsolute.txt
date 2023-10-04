@@ -1,0 +1,15 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
