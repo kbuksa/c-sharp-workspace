@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\refint\Basics.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\ref\Basics.dll

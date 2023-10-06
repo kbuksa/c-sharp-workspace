@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\refint\MultiValues.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\ref\MultiValues.dll
