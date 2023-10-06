@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\refint\ProgChallengeStart.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net7.0\ref\ProgChallengeStart.dll
