@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\bin\Debug\net7.0\Formatting.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\refint\Formatting.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\Formatting.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Formatting\obj\Debug\net7.0\ref\Formatting.dll

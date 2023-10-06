@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\bin\Debug\net7.0\Strings.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\bin\Debug\net7.0\Strings.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\bin\Debug\net7.0\Strings.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\bin\Debug\net7.0\Strings.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\bin\Debug\net7.0\Strings.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\refint\Strings.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Interpolation\obj\Debug\net7.0\ref\Strings.dll

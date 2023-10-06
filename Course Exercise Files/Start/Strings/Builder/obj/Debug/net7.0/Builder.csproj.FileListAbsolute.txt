@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\bin\Debug\net7.0\Builder.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Strings\Builder\obj\Debug\net7.0\ref\Builder.dll
