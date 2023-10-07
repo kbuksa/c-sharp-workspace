@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\bin\Debug\net7.0\Defining.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\bin\Debug\net7.0\Defining.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\bin\Debug\net7.0\Defining.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\bin\Debug\net7.0\Defining.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\bin\Debug\net7.0\Defining.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\refint\Defining.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\Defining.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Defining\obj\Debug\net7.0\ref\Defining.dll

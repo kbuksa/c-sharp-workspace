@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\refint\StringRep.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\StringRep\obj\Debug\net7.0\ref\StringRep.dll

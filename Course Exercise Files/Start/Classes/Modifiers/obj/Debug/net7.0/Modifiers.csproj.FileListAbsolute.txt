@@ -1,0 +1,14 @@
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.exe
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.deps.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.runtimeconfig.json
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.AssemblyInfoInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.AssemblyInfo.cs
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\refint\Modifiers.dll
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.pdb
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.genruntimeconfig.cache
+C:\personal_projects\c-sharp-workspace\Course Exercise Files\Start\Classes\Modifiers\obj\Debug\net7.0\ref\Modifiers.dll
